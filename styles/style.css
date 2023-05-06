@@ -89,14 +89,13 @@ div#formulario > p {
 .campo > input {
     font-size: 100%;
     height: 100%;
-    /* width: calc(100% - 44px); */
-    width: 87%;
+    width: calc(100% - 44px);
+    /* width: 89%; */
     padding: 10px;
     border: none;
     border-radius: 15px;
     transform: translateY(-10.8px);
 }
-
 
 input#botao01 {
     display: block;
